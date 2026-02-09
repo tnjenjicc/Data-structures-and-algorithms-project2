@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671371787 source:c:\users\tijana\desktop\spa\ppppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
+1671372490 source:c:\users\tijana\desktop\spa\tijana-njenjic-1128_21\drugi_domaci_zadatak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+
